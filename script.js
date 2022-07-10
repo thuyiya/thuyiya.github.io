@@ -60,6 +60,12 @@ const resume = {
     'Redis'
   ],
   tools: [
+    'Loopback',
+    'PM2',
+    'NGINX',
+    'Docker',
+    'App-Center',
+    'Heroku',
     'Webpack',
     'OneSignal',
     'ElectronJS',
