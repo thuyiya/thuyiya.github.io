@@ -49,7 +49,8 @@ const resume = {
     'JavaScript',
     'TypeScript',
     'NodeJS/NestJS',
-    'GCP'
+    'GCP',
+    'Vue'
   ],
   databses: [
     'PostgreSQL',
@@ -84,7 +85,8 @@ const resume = {
     'Xcode',
     'Android Studio',
     'Bootstrap',
-    'MUI'
+    'MUI',
+    'Vue'
   ],
   referees: [
     {
@@ -100,12 +102,34 @@ const resume = {
       images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/zonein/cover-zonein.png'],
       domain: '',
       products: [{
-        title: '',
-        link: '',
-        type: ''
+        title: 'Landing Page',
+        link: 'https://getzonein.com',
+        type: 'LANDING'
+      },{
+        title: 'Web Dashboard',
+        link: 'https://dash.zoneinpro.com',
+        type: 'CHEF, ADMIN, DIETITIAN, ANALYTIC'
       }],
       system: 'ZoneIn is the performance nutrition management platform for sports dietitians and their athletes. Leading comanies Like EXOS, NBA NFL Teams is client of zonein.',
-      tech_tools: []
+      tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'Loopback', 'Aws', 'MongoDB', 'IOS', 'Android', 'Swift', 'Stripe', 'Heroku', 'Firebase', 'Appcenter', 'NutritionX', 'GCP', 'OneSignal', 'Bixilon', 'Java', 'SocketIO', 'PM2', 'Nginx', 'Redis']
+    },
+    {
+      title: 'Autohelp',
+      time: 'APRIL.2018',
+      role: 'Full-Stack Engineer',
+      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/autohelp/cover-autohelp.png'],
+      domain: '',
+      products: [{
+        title: 'Landing Page',
+        link: 'https://autohelp.se',
+        type: 'LANDING'
+      },{
+        title: 'Play Store',
+        link: 'https://play.google.com/store/apps/details?id=com.autohelp_mobile',
+        type: 'Android App'
+      }],
+      system: 'AutoHelp is a service platform for vehicle owners in the Nordic region. They can create ad and Others can help for it using simple request.',
+      tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'ExpressJs', 'Azure', 'MongoDB', 'IOS', 'Android', 'Swift', 'Stripe', 'Heroku', 'Firebase', 'Java', 'SocketIO', 'PM2', 'Nginx', 'Redis', 'Cloudinary']
     }
   ],
 

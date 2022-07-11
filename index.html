@@ -346,34 +346,54 @@
               </div>
             </div>
           </div>
-          <div class="col col-12">
-            <br />
-            <br />
-            <br />
+          <div class="row project-content">
             <animatable-component
               autoplay
               animation="fade-in-right"
               easing="ease-in-out"
               duration="1200"
             >
-              <div class="row">
+              <div class="header-project">
                 <p class="title">PROFESSIONAL EXPERIENCE/ SELECTED PROJECT</p>
               </div>
             </animatable-component>
             <br />
-            <div v-for="project in projects">
-              <div class="card mb-3" style="max-width: 540px">
+            <div class="col col-6" v-for="project in projects">
+              <div class="card mb-3">
                 <div class="row g-0">
                   <div class="col-md-4">
-                    <img src="{{project.images[0]}}" class="img-fluid rounded-start" alt="Zonein" />
+                    <img
+                      v-bind:src="project.images[0]"
+                      class="img-card rounded-start"
+                      alt="Zonein"
+                    />
                   </div>
                   <div class="col-md-8">
                     <div class="card-body">
                       <h2 class="card-title">{{ project.title }}</h2>
                       <h4>{{ project.time }}</h4>
                       <p class="card-text">{{ project.system }}</p>
+                      <div class="project-content">
+                        <div v-for="product in project.products">
+                          <h5>
+                            <a
+                              class="text-reset"
+                              target="_blank"
+                              v-bind:href.prop="product.link"
+                            >
+                              {{ product.title }}
+                            </a>
+                          </h5>
+                        </div>
+                      </div>
+                      <div class="tech_tools">
+                        <p class="chip" v-for="tech_tool in project.tech_tools">
+                          {{ tech_tool }}
+                        </p>
+                      </div>
                       <p class="card-text">
-                        Role: <small class="text-muted">{{ project.role }}</small>
+                        Role:
+                        <small class="text-muted">{{ project.role }}</small>
                       </p>
                     </div>
                   </div>
@@ -381,6 +401,7 @@
               </div>
             </div>
           </div>
+          <br />
         </div>
       </section>
     </section>
