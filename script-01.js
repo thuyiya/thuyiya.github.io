@@ -86,6 +86,29 @@ const resume = {
     'Bootstrap',
     'MUI'
   ],
+  referees: [
+    {
+      name: 'SHOHEI FUJIMORI',
+      description: 'CEO | Asia Capital',
+    }
+  ],
+  projects: [
+    {
+      title: 'Zonein',
+      time: 'DEC.2019 - Present',
+      role: 'Full-Stack Engineer',
+      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/zonein/cover-zonein.png'],
+      domain: '',
+      products: [{
+        title: '',
+        link: '',
+        type: ''
+      }],
+      system: 'ZoneIn is the performance nutrition management platform for sports dietitians and their athletes. Leading comanies Like EXOS, NBA NFL Teams is client of zonein.',
+      tech_tools: []
+    }
+  ],
+
   languages: ['English', 'Sinhala'],
   professionalSummary: `Developer with a background in web, mobile and game development, having 5+ years of practice and leadership building interactive experiences.
     Great enthusiastic teamwork, considered helpful, creative, assertive and cautious.`,
