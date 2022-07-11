@@ -44,7 +44,7 @@ p {
 }
 
 .header {
-  padding-top: 17.8297rem;
+  padding-top: 12.8297rem;
   padding-bottom: 10rem;
   direction: ltr;
   margin-bottom: 3rem;
@@ -106,9 +106,9 @@ p {
 }
 
 .icon {
-  width: 5rem;
-  height: 5rem;
-  font-size: 2.5rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  font-size: 1.5rem;
   color: white;
   background-color: #3e3e3e;
   border-radius: 50%;
@@ -118,6 +118,10 @@ p {
 a p {
   word-break: break-all;
   color: #666766;
+}
+
+.text-reset {
+  font-size: 1.6rem;
 }
 
 .list-item {
@@ -159,7 +163,7 @@ a p {
   width: 0.3rem;
   height: 70%;
   background-color: #292929;
-  margin-top: 4.2rem;
+  margin-top: 3.4rem;
 }
 
 .record {

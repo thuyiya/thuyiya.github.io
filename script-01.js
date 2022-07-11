@@ -5,7 +5,7 @@ const resume = {
   firstName: 'Thusitha',
   lastName: 'Jayalath',
   jobTitle: 'Full Stack Engineer',
-  city: '177/3, Pallethalawinna, Katugastota, Kandy',
+  city: 'Kandy',
   postalCode: '20800',
   country: 'Sri Lanka',
   phone: '+94776682277',
@@ -97,8 +97,18 @@ const resume = {
       employer: 'Zonein',
       city: 'New York',
       achievements: [
-        'Led code refactors using best practices with Angular & NgRx to improve code reusability from web and mobile apps.',
-        'Created demos and collaborated with the team for integrations with third-party providers like Uber Eats.'
+        'Created the baseline for the development of reactive apps using new technologies such as ReactJS and GraphQL for rapid prototyping.',
+        'Working with major system Updates (Native IOS to React Native, Loopback, ReactJS)',
+        'Distribute data layer via mutiple databases and Load balancing for backend',
+        'Handle Different features via servise layer',
+        'Performance inreese for databases (Mongodb)',
+        'Introduce caching system and analytics system for better perfomance',
+        'Configurations of cloud infrastructure in AWS, Configuring automated CI/CD pipelines, Multi regional hosting, Enabling monitoring, Rollback feature',
+        'UI optimization for fast loading',
+        'Make application HIPAA Compliance',
+        'Security enhancement for client requirements',
+        'Build component package library and introduce new methods for fast deliveries',
+        'New Developers Traning and Requirements'
       ]
     },
     {
@@ -108,32 +118,41 @@ const resume = {
       employer: 'NEMAS, AB',
       city: 'Sweden',
       achievements: [
-        'Created the baseline for the development of reactive apps using new technologies such as MeteorJS and GraphQL for rapid prototyping.',
-        'Contributed to configure continuous integration pipelines for new projects through cloud services with Azure and Visual Studio Team Services.'
+        'Manage the team to learn more technologies the development and industrial experience for enhance and achieve their targets',
+        'Contributed to configure continuous integration pipelines for new projects through firebase. Help to setup testflight and app center for push code'
       ]
     },
     {
       jobTitle: 'Frontend Lead',
       startDate: 'Nov 2019',
       endDate: 'May 2020',
-      employer: 'Orvero',
-      city: 'Colombo',
+      employer: 'Orvero/ Austal',
+      city: 'Australia (Remote)',
       achievements:[
-        'Joined as the first remote employee and worked with the founders to improve the performance and UX of the apps according to the business goals.',
-        'Led team of 5 engineers and Coordinate with other teams to build a modular mobile app for iOS and Android with React Native.',
-        'Developed native integrations to improve the UX of mobile apps, reaching more than 3 million downloads with Open Source side projects.',
+        'Build component library as base project and visualize them using storybook',
+        'Train developers for Unit Testing with Enzyme and Jest.',
+        'Build various type of chart for help airforce to make data visualization easy with D3.',
+        'Experience with common front-end development tools such as Babel, Webpack, Grunt, Gulp, NPM etc.',
+        'Enhance and improve the usability and accessibility, and also improve the rendering capability with Server side rendering for charts',
+        'Convert Old Javascript code to TypeScript',
+        'Increase performance using Profiler in the React DevTools',
+        'Prevent and stop unnecessary re-rendering',
+        'Development was done on agile methodology',
+        'Review code developed by other developers and provide feedback to ensure best practices'
       ]
     },
     {
       jobTitle: 'Senior Software Engineer',
       startDate: 'Sep 2018',
       endDate: 'Nov 2019',
-      employer: 'Esshva Techq',
+      employer: 'Esshva Techq - RumbleOn',
       city: 'USA',
       achievements: [
-        'Created a course about JavaScript Patterns for the company.',
-        'Defined baseline for cross-platform mobile applications using new technologies, with these results the company became an Ionic Trusted Partner.',
-        'Help engineers grow by guiding them through the right challenges, developing self-confidence and soft skills by delegating new responsibilities through a mentoring process.'
+        'Markup data api for market value of the vehicles.',
+        'Dealership connector - Build a platform that connect, all of the Rumbleon system connect with dealership.',
+        'Maintain Mobile application in IOS and update the search feature with Elasticsearch search.',
+        'Server side rendering for charts for Rumbelon analytics',
+        'Create package for form steps'
       ]
     },
     {
@@ -143,8 +162,10 @@ const resume = {
       employer: 'University Of colombo, NIBM',
       city: 'Sri Lanka',
       achievements: [
-        'Designed baselines for mobile application development using PhoneGap/Cordova with Ionic Framework.',
-        'Trained the team for the implementation of new methodologies such as ALM for the management of applications.'
+        'NIBM - IOS Development, Create content and assessment for 4th year students.',
+        'Create content for student learn new technologies help student to understand the industrial way.',
+        'UCSC - Adwance Web Development (Teach them about React, Angular)',
+        'UCSC - Cross Plaform development, Build software product from one source to different platforms'
       ]
     },
     {
@@ -154,8 +175,19 @@ const resume = {
       employer: 'Crowderia',
       city: 'Sweden',
       achievements: [
-        'Designed baselines for mobile application development using PhoneGap/Cordova with Ionic Framework.',
-        'Trained the team for the implementation of new methodologies such as ALM for the management of applications.'
+        'Leading Frontend and backend team of Grade5 project.',
+        'Implementation RESTful architecture and Push notification setup with OneSignal.',
+        'Build Native IOS application for Grade5, Hoster, and Cokeep Projects',
+        'Convert Native IOS application to IONIC 2 (Grade5)',
+        'Worked closely with UX and Product Management to develop friendly UI experiences',
+        'Experienced working in an Agile environment (e.g. Scrum, Kanban or ScrumBan)',
+        'Optimize application for maximum speed and scalability',
+        'Convert wordpress project to mobile application using react native and ionic',
+        'Traning developers cross-browser compatibility issues and ways to work around them',
+        'Follow web accessibility guidelines',
+        'Experience with common front-end development tools such as Babel, Webpack, Grunt, Gulp, NPM etc.',
+        'Organize event and trip and sport days in the company',
+        'Start Crowd Lab, and help new recruits to clean language concept other than their day to day work'
       ]
     },
     {
@@ -165,7 +197,10 @@ const resume = {
       employer: 'Crowderia',
       city: 'Sweden',
       achievements: [
-        `Help the decision-making process of the company, performing research and developing ideas to migrate the company's web portal using CMS based on ASP.NET.`
+        `Work with seniors in Game development, mobile development and web technologies.`,
+        'Participate with client and technical meetings to learn high level idea of the project and concepts',
+        'Directly work with CTO and QA Lead for learn company products',
+        'Join with company open source team'
       ]
     },
     {
@@ -175,7 +210,9 @@ const resume = {
       employer: 'GCBlock',
       city: 'Colombo',
       achievements: [
-        'Create a small game for mobile, introduce new user input for handle vehical in the movile screen without controller ui'
+        'Build game asset using blender and photoshop',
+        'Deploy mobile game to mobile platform',
+        'Program next level user experience other than joystick mechanism for drive a car'
       ]
     }
   ],
