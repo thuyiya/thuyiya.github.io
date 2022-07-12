@@ -179,6 +179,20 @@ const resume = {
       }],
       system: 'Austal is Australias global shipbuilder, defence  prime contractor and maritime technology partner of choice; designing, constructing and supporting revolutionary defence and commercial vessels for the  worlds leading operators.',
       tech_tools: ['ReactJS', 'TypeScript', 'Azure', 'Devops', 'D3.js', 'ANT Design', 'ESLint', 'Webpack', 'SASS', 'Redux', 'Toolkit', 'Storybook']
+    },
+    {
+      title: 'GRADE 5',
+      time: 'SEP.2016 - AUG.2018',
+      role: 'Full Stack Developer',
+      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/gread5/cover-gread5.png'],
+      domain: '',
+      products: [{
+        title: 'Web App',
+        link: 'https://www.grade5.lk',
+        type: 'LANDING'
+      }],
+      system: 'Examination portal, user can create papers in admin panel, with various types of question and can answer them using the Client application. Had to consider about database replication and load balancing.',
+      tech_tools: [ 'IOS', 'SWIFT', 'Android', 'IONIC 2', 'Angular 2, 4', 'Nodejs', 'MongoDb', 'SocketIO', 'Cloudinary', 'redis', 'Jira', 'OneSignal' ]
     }
   ],
 
