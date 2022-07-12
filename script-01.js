@@ -92,6 +92,10 @@ const resume = {
     {
       name: 'SHOHEI FUJIMORI',
       description: 'CEO | Asia Capital',
+    },
+    {
+      name: 'SUJEEV RAJAKULENDRAN',
+      description: 'CEO | EshvaTechq',
     }
   ],
   projects: [
@@ -130,6 +134,24 @@ const resume = {
       }],
       system: 'AutoHelp is a service platform for vehicle owners in the Nordic region. They can create ad and Others can help for it using simple request.',
       tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'ExpressJs', 'Azure', 'MongoDB', 'IOS', 'Android', 'Swift', 'Stripe', 'Heroku', 'Firebase', 'Java', 'SocketIO', 'PM2', 'Nginx', 'Redis', 'Cloudinary']
+    },
+    {
+      title: 'RumbleOn',
+      time: 'AUG.2018 - SEP.2019',
+      role: 'Senior Engineer',
+      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/autohelp/cover-rumbelon.jpeg'],
+      domain: '',
+      products: [{
+        title: 'Landing Page',
+        link: 'https://www.rumbleon.com',
+        type: 'LANDING'
+      },{
+        title: 'Play Store',
+        link: 'https://play.google.com/store/apps/details?id=com.rumbleon.app&hl=en&gl=US',
+        type: 'Android App'
+      }],
+      system: 'Disruptive e-commerce platform that facilitates the ability for both consumers and dealers to Buy-Sell-Trade-Finance all pre-owned recreation vehicles ',
+      tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'NextJS', 'Azure', 'Typescript', 'Javascript', 'Android', 'Swift', 'Java', 'PM2', 'Nginx', 'ElasticSearch', 'AWS']
     }
   ],
 
