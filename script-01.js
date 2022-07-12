@@ -113,6 +113,19 @@ const resume = {
         title: 'Web Dashboard',
         link: 'https://dash.zoneinpro.com',
         type: 'CHEF, ADMIN, DIETITIAN, ANALYTIC'
+      },{
+        title: 'IOS App',
+        link: 'https://play.google.com/store/apps/details?id=com.zonein',
+        type: 'ATHLETE, DIETITIAN'
+      },{
+        title: 'Android App',
+        link: 'https://play.google.com/store/apps/details?id=com.zonein',
+        type: 'ATHLETE, DIETITIAN'
+      },
+      {
+        title: 'Orders App',
+        link: 'https://play.google.com/store/apps/details?id=com.zonein.orders',
+        type: 'CHEF'
       }],
       system: 'ZoneIn is the performance nutrition management platform for sports dietitians and their athletes. Leading comanies Like EXOS, NBA NFL Teams is client of zonein.',
       tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'Loopback', 'Aws', 'MongoDB', 'IOS', 'Android', 'Swift', 'Stripe', 'Heroku', 'Firebase', 'Appcenter', 'NutritionX', 'GCP', 'OneSignal', 'Bixilon', 'Java', 'SocketIO', 'PM2', 'Nginx', 'Redis']
@@ -142,7 +155,7 @@ const resume = {
       images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/rumbelon/cover-rumbelon.jpeg'],
       domain: '',
       products: [{
-        title: 'Landing Page',
+        title: 'Web App',
         link: 'https://www.rumbleon.com',
         type: 'LANDING'
       },{
@@ -152,6 +165,20 @@ const resume = {
       }],
       system: 'Disruptive e-commerce platform that facilitates the ability for both consumers and dealers to Buy-Sell-Trade-Finance all pre-owned recreation vehicles ',
       tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'NextJS', 'Azure', 'Typescript', 'Javascript', 'Android', 'Swift', 'Java', 'PM2', 'Nginx', 'ElasticSearch', 'AWS']
+    },
+    {
+      title: 'ALFI - Austal',
+      time: 'NOV.2019 - MAY.2020',
+      role: 'Frontend Lead',
+      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/austal/cover-austal.png'],
+      domain: '',
+      products: [{
+        title: 'Company',
+        link: 'http://austal.com',
+        type: 'LANDING'
+      }],
+      system: 'Austal is Australias global shipbuilder, defence  prime contractor and maritime technology partner of choice; designing, constructing and supporting revolutionary defence and commercial vessels for the  worlds leading operators.',
+      tech_tools: ['ReactJS', 'TypeScript', 'Azure', 'Devops', 'D3.js', 'ANT Design', 'ESLint', 'Webpack', 'SASS', 'Redux', 'Toolkit', 'Storybook']
     }
   ],
 
