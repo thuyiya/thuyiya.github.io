@@ -139,7 +139,7 @@ const resume = {
       title: 'RumbleOn',
       time: 'AUG.2018 - SEP.2019',
       role: 'Senior Engineer',
-      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/autohelp/cover-rumbelon.jpeg'],
+      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/rumbelon/cover-rumbelon.jpeg'],
       domain: '',
       products: [{
         title: 'Landing Page',
