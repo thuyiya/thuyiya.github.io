@@ -193,6 +193,20 @@ const resume = {
       }],
       system: 'Examination portal, user can create papers in admin panel, with various types of question and can answer them using the Client application. Had to consider about database replication and load balancing.',
       tech_tools: [ 'IOS', 'SWIFT', 'Android', 'IONIC 2', 'Angular 2, 4', 'Nodejs', 'MongoDb', 'SocketIO', 'Cloudinary', 'redis', 'Jira', 'OneSignal' ]
+    },
+    {
+      title: 'COQEEP',
+      time: 'JAN.2017 - AUG.2018',
+      role: 'IOS Developer',
+      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/coqeep/coqeep-cover.png'],
+      domain: '',
+      products: [{
+        title: 'Mobile App',
+        link: 'https://www.youtube.com/watch?v=Dh0sz4aQdrY',
+        type: 'DEMO'
+      }],
+      system: 'Coqeepconnectthosethatareshortofspaceforaloftheir belongingswiththosethathaveexcessspace.',
+      tech_tools: [ 'IOS', 'SWIFT', 'Android', 'GoogleMap', 'Google place' , 'A/B testin' ]
     }
   ],
 
