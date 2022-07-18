@@ -198,7 +198,7 @@ const resume = {
       title: 'COQEEP',
       time: 'JAN.2017 - AUG.2018',
       role: 'IOS Developer',
-      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/coqeep/coqeep-cover.png'],
+      images: ['https://raw.githubusercontent.com/thuyiya/thuyiya.github.io/master/assets/coqeep/coqeep-cover.png'],
       domain: '',
       products: [{
         title: 'Mobile App',
