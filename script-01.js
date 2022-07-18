@@ -195,6 +195,20 @@ const resume = {
       tech_tools: [ 'IOS', 'SWIFT', 'Android', 'IONIC 2', 'Angular 2, 4', 'Nodejs', 'MongoDb', 'SocketIO', 'Cloudinary', 'redis', 'Jira', 'OneSignal' ]
     },
     {
+      title: 'Animech',
+      time: 'APR.2018 - AUG.2018',
+      role: 'Software Engineer',
+      images: ['https://raw.githubusercontent.com/thuyiya/thuyiya.github.io/master/assets/animech/animech-cover.png'],
+      domain: '',
+      products: [{
+        title: 'Web App',
+        link: 'htps://animech.com',
+        type: 'DEMO'
+      }],
+      system: 'Animech delivers top-quality 3D applications and digitizes the entire sales process up to production using the latest technology. 3D Product Configurator, Using anim ech UI Component Library.',
+      tech_tools: [ 'ReactJS','TypeScript', 'JEST']
+    },
+    {
       title: 'COQEEP',
       time: 'JAN.2017 - AUG.2018',
       role: 'IOS Developer',
@@ -205,7 +219,7 @@ const resume = {
         link: 'https://www.youtube.com/watch?v=Dh0sz4aQdrY',
         type: 'DEMO'
       }],
-      system: 'Coqeepconnectthosethatareshortofspaceforaloftheir belongingswiththosethathaveexcessspace.',
+      system: 'Coqeep (iOS and Android) offers users to find and rent spaces which are put up as advertisements from users who have some extra space. It is an online source for storage rental, addressing the unmet need of a flexible, cheap and convenient storage service in big cities and offers a platform to supply storage for space-needing people, while anyone who has an excess of space can sign-up on the Coqeep application and make it accessible for others to rent within a requested timeframe.',
       tech_tools: [ 'IOS', 'SWIFT', 'Android', 'GoogleMap', 'Google place' , 'A/B testin' ]
     }
   ],
