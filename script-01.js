@@ -209,6 +209,20 @@ const resume = {
       tech_tools: [ 'ReactJS','TypeScript', 'JEST']
     },
     {
+      title: 'IQTest',
+      time: 'MAY.2018 - JUN.2018',
+      role: 'Software Engineer',
+      images: ['https://raw.githubusercontent.com/thuyiya/thuyiya.github.io/master/assets/iqtest/cover-iqtest.png'],
+      domain: '',
+      products: [{
+        title: 'Web App',
+        link: 'https://www.iqtestet.se/',
+        type: 'DEMO'
+      }],
+      system: 'IQTest platform for Sweden Kids.',
+      tech_tools: [ 'ReactJS' ]
+    },
+    {
       title: 'Coqeep',
       time: 'JAN.2017 - AUG.2018',
       role: 'IOS Developer',
