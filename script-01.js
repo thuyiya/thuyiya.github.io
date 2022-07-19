@@ -209,7 +209,7 @@ const resume = {
       tech_tools: [ 'ReactJS','TypeScript', 'JEST']
     },
     {
-      title: 'COQEEP',
+      title: 'Coqeep',
       time: 'JAN.2017 - AUG.2018',
       role: 'IOS Developer',
       images: ['https://raw.githubusercontent.com/thuyiya/thuyiya.github.io/master/assets/coqeep/coqeep-cover.png'],
@@ -220,6 +220,24 @@ const resume = {
         type: 'DEMO'
       }],
       system: 'Coqeep (iOS and Android) offers users to find and rent spaces which are put up as advertisements from users who have some extra space. It is an online source for storage rental, addressing the unmet need of a flexible, cheap and convenient storage service in big cities and offers a platform to supply storage for space-needing people, while anyone who has an excess of space can sign-up on the Coqeep application and make it accessible for others to rent within a requested timeframe.',
+      tech_tools: [ 'IOS', 'SWIFT', 'Android', 'GoogleMap', 'Google place' , 'A/B testin' ]
+    },
+    {
+      title: 'Tele Pulz',
+      time: 'SEP.2020 - DEC.2021',
+      role: 'IOS Developer',
+      images: ['https://raw.githubusercontent.com/thuyiya/thuyiya.github.io/master/assets/telepluz/telepluz-cover.png'],
+      domain: '',
+      products: [{
+        title: 'Web App',
+        link: 'https://www.digitalpulz.com',
+        type: 'DEMO'
+      },{
+        title: 'Mobile App',
+        link: 'https://play.google.com/store/apps/details?id=com.telepulz&hl=en&gl=US',
+        type: 'DEMO'
+      }],
+      system: 'Videoconference,ChatandReciptShare.',
       tech_tools: [ 'IOS', 'SWIFT', 'Android', 'GoogleMap', 'Google place' , 'A/B testin' ]
     }
   ],
