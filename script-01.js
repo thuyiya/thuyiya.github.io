@@ -101,7 +101,7 @@ const resume = {
   projects: [
     {
       title: 'Zonein',
-      time: 'DEC.2019 - Present',
+      time: 'MAY.2020 - Present',
       role: 'Full-Stack Engineer',
       images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/zonein/cover-zonein.png'],
       domain: '',
