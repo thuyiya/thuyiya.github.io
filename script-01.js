@@ -101,7 +101,7 @@ const resume = {
   projects: [
     {
       title: 'Zonein',
-      time: 'MAY.2020 - Present',
+      time: 'NOV.2019 - Present',
       role: 'Full-Stack Engineer',
       images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/zonein/cover-zonein.png'],
       domain: '',
@@ -128,7 +128,7 @@ const resume = {
         type: 'CHEF'
       }],
       system: 'ZoneIn is the performance nutrition management platform for sports dietitians and their athletes. Leading comanies Like EXOS, NBA NFL Teams is client of zonein.',
-      tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'Loopback', 'Aws', 'MongoDB', 'IOS', 'Android', 'Swift', 'Stripe', 'Heroku', 'Firebase', 'Appcenter', 'NutritionX', 'GCP', 'OneSignal', 'Bixilon', 'Java', 'SocketIO', 'PM2', 'Nginx', 'Redis']
+      tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'Loopback', 'Redux', 'Toolkit', 'Storybook', 'Aws', 'MongoDB', 'IOS', 'Android', 'Swift', 'Stripe', 'Heroku', 'Firebase', 'Appcenter', 'NutritionX', 'GCP', 'OneSignal', 'Bixilon', 'Java', 'SocketIO', 'PM2', 'Nginx', 'Redis', 'D3.js', 'ANT Design']
     },
     {
       title: 'Autohelp',
@@ -165,20 +165,6 @@ const resume = {
       }],
       system: 'Disruptive e-commerce platform that facilitates the ability for both consumers and dealers to Buy-Sell-Trade-Finance all pre-owned recreation vehicles ',
       tech_tools: ['ReactJS', 'React Native', 'NodeJs', 'NextJS', 'Azure', 'Typescript', 'Javascript', 'Android', 'Swift', 'Java', 'PM2', 'Nginx', 'ElasticSearch', 'AWS']
-    },
-    {
-      title: 'ALFI - Austal',
-      time: 'NOV.2019 - MAY.2020',
-      role: 'Frontend Lead',
-      images: ['https://raw.githubusercontent.com/thuyiya/profile/main/assets/austal/cover-austal.png'],
-      domain: '',
-      products: [{
-        title: 'Company',
-        link: 'http://austal.com',
-        type: 'LANDING'
-      }],
-      system: 'Austal is Australias global shipbuilder, defence  prime contractor and maritime technology partner of choice; designing, constructing and supporting revolutionary defence and commercial vessels for the  worlds leading operators.',
-      tech_tools: ['ReactJS', 'TypeScript', 'Azure', 'Devops', 'D3.js', 'ANT Design', 'ESLint', 'Webpack', 'SASS', 'Redux', 'Toolkit', 'Storybook']
     },
     {
       title: 'GRADE 5',
@@ -262,7 +248,7 @@ const resume = {
   employmentHistory: [
     {
       jobTitle: 'Team Lead / Full-Stack Engineer',
-      startDate: 'MAY 2020',
+      startDate: 'NOV.2019',
       endDate: 'Present',
       employer: 'Zonein',
       city: 'New York',
@@ -278,7 +264,17 @@ const resume = {
         'Make application HIPAA Compliance',
         'Security enhancement for client requirements',
         'Build component package library and introduce new methods for fast deliveries',
-        'New Developers Traning and Requirements'
+        'New Developers Traning and Requirements',
+        'Build component library as base project and visualize them using storybook',
+        'Train developers for Unit Testing with Enzyme and Jest.',
+        'Build various type of chart for help airforce to make data visualization easy with D3.',
+        'Experience with common front-end development tools such as Babel, Webpack, Grunt, Gulp, NPM etc.',
+        'Enhance and improve the usability and accessibility, and also improve the rendering capability with Server side rendering for charts',
+        'Convert Old Javascript code to TypeScript',
+        'Increase performance using Profiler in the React DevTools',
+        'Prevent and stop unnecessary re-rendering',
+        'Development was done on agile methodology',
+        'Review code developed by other developers and provide feedback to ensure best practices'
       ]
     },
     {
@@ -290,25 +286,6 @@ const resume = {
       achievements: [
         'Manage the team to learn more technologies the development and industrial experience for enhance and achieve their targets',
         'Contributed to configure continuous integration pipelines for new projects through firebase. Help to setup testflight and app center for push code'
-      ]
-    },
-    {
-      jobTitle: 'Frontend Lead',
-      startDate: 'Nov 2019',
-      endDate: 'May 2020',
-      employer: 'Orvero/ Austal',
-      city: 'Australia (Remote)',
-      achievements:[
-        'Build component library as base project and visualize them using storybook',
-        'Train developers for Unit Testing with Enzyme and Jest.',
-        'Build various type of chart for help airforce to make data visualization easy with D3.',
-        'Experience with common front-end development tools such as Babel, Webpack, Grunt, Gulp, NPM etc.',
-        'Enhance and improve the usability and accessibility, and also improve the rendering capability with Server side rendering for charts',
-        'Convert Old Javascript code to TypeScript',
-        'Increase performance using Profiler in the React DevTools',
-        'Prevent and stop unnecessary re-rendering',
-        'Development was done on agile methodology',
-        'Review code developed by other developers and provide feedback to ensure best practices'
       ]
     },
     {
